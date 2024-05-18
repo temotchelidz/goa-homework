@@ -1,0 +1,1 @@
+print("me gavicani: nika taqtaqidze da deme biganashvili")
