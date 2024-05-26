@@ -1,3 +1,3 @@
-name ="temo "
-age = "13 "
-print(name + "aris " + age + "wlis ")
+name = " temo "
+age = 13 
+print(name + " aris " + age + " wlis ") 
