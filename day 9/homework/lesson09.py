@@ -1,6 +1,6 @@
 #homework N1
-name = input ("what is your name:")
-print(name)
+gghhh= input ("what is your name:")
+print(gghhh)
 
 last_name = input ("what is your last name:")
 print(last_name)
