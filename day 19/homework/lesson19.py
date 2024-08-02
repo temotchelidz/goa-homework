@@ -35,10 +35,10 @@
 
 #6) შექმენით პროგრამა სადაც გამოიყენებთ While loop - ს. 
 #თქვენი დავალება იქნება ის, რომ მომხამრებელს შემოატანინოთ რიცხვი და თქვენ უნდა გამოიცნოთ ეს რიცხვი, ხოლო ყოველ არ გამოცნობილ რიცხვზე ისევ თავიდან უნდა შეგეკითხოთ და შეიყვანოთ რიცხვი.
-num = int(input("enter number:"))
-
-while True:
-   print ("temo")
+#num = int(input("enter number:"))
+#my_num =int(input("my num"))
+#while num != my_num:
+   #my_num =int(input("my num"))
 
 
 
